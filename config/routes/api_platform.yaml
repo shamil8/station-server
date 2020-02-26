@@ -1,0 +1,5 @@
+api_platform:
+    resource: .
+    type: api_platform
+#    defaults: {_format: json} # <<<<<<<
+    prefix: /api
